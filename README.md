@@ -128,8 +128,8 @@ Projets réseau, sockets et communication client/serveur.
 
 # 📫 Contact
 
-- GitHub : **mszymczakpiscine**  
-- Discord : *(à ajouter)*  
+- GitHub : **maiaszymczak**  
+- Discord : *maia_sz*  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mszymczakpiscine&color=green" />
