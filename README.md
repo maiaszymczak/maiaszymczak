@@ -1,7 +1,7 @@
 <!-- BANNIÈRE -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=38B2AC&center=true&vCenter=true&width=500&lines=Hello,+I'm+Maia;Bienvenue+sur+mon+GitHub;Étudiante+à+l'école+42;Passionnée+de+Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=38B2AC&center=true&vCenter=true&width=500&lines=Étudiante+à+l'école+42" />
 </p>
 
 ---
