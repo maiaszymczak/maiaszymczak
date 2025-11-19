@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-Étudiante à <b>42</b> 🏫 | Développeur <b>C / C++</b> ⚙️💡  
+Étudiante à <b>42</b> 🏫 | Développeuse <b>C / C++</b> ⚙️💡  
 <br>
 Toujours en train de créer, apprendre, optimiser, et casser du code pour mieux le refaire 😆
 </p>
