@@ -49,7 +49,10 @@ Toujours en train de créer, apprendre, optimiser, et casser du code pour mieux 
 - ![CPP 01](https://img.shields.io/badge/CPP_01-C++-9370DB)  
 - ![CPP 02](https://img.shields.io/badge/CPP_02-C++-BA55D3)  
 - ![CPP 03](https://img.shields.io/badge/CPP_03-C++-DA70D6)  
-- ![CPP 04](https://img.shields.io/badge/CPP_04-C++-EE82EE)  
+- ![CPP 04](https://img.shields.io/badge/CPP_04-C++-EE82EE)
+- ![CPP 05](https://img.shields.io/badge/CPP_05-C++-EE82EE)
+- ![CPP 06](https://img.shields.io/badge/CPP_06-C++-EE82EE)
+- ![CPP 07](https://img.shields.io/badge/CPP_07-C++-EE82EE)
 
 ---
 
@@ -115,7 +118,9 @@ Projets réseau, sockets et communication client/serveur.
 ![Circle 2](https://img.shields.io/badge/Circle-2-green?style=for-the-badge)
 ![Circle 3](https://img.shields.io/badge/Circle-3-green?style=for-the-badge)
 ![Circle 4](https://img.shields.io/badge/Circle-4-green?style=for-the-badge)
+![Circle 5](https://img.shields.io/badge/Circle-5-green?style=for-the-badge)
 ---
+
 
 # 📊 Stats GitHub
 
