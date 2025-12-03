@@ -50,9 +50,11 @@ Toujours en train de créer, apprendre, optimiser, et casser du code pour mieux 
 - ![CPP 02](https://img.shields.io/badge/CPP_02-C++-BA55D3)  
 - ![CPP 03](https://img.shields.io/badge/CPP_03-C++-DA70D6)  
 - ![CPP 04](https://img.shields.io/badge/CPP_04-C++-EE82EE)
-- ![CPP 05](https://img.shields.io/badge/CPP_05-C++-EE82EE)
-- ![CPP 06](https://img.shields.io/badge/CPP_06-C++-EE82EE)
-- ![CPP 07](https://img.shields.io/badge/CPP_07-C++-EE82EE)
+- ![CPP 05](https://img.shields.io/badge/CPP_05-C++-EE88EE)
+- ![CPP 06](https://img.shields.io/badge/CPP_06-C++-EE89EE)
+- ![CPP 07](https://img.shields.io/badge/CPP_07-C++-EE98EE)
+- ![CPP 08](https://img.shields.io/badge/CPP_08-C++-FE82EE)
+- ![CPP 09](https://img.shields.io/badge/CPP_09-C++-GE82EE)
 
 ---
 
